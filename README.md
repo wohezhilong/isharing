@@ -32,3 +32,47 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImlzaGFyaW5n54ix5YiG5LqrWW91VHViZemikemB
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImlzaGFyaW5n54ix5YiG5LqrWW91VHViZemikemBky0g5L+E572X5pav6I6r5pav56eRSnVzdEhvc3QyMzYiLA0KICAiYWRkIjogIjE3Ni4zMi4zNS4yMzYiLA0KICAicG9ydCI6ICIzNTI5NSIsDQogICJpZCI6ICJmNGM2N2ViYS04MGJhLTRjZjktYWU1YS03MTlmNzcwMGE4YTIiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIxNzYuMzIuMzUuMjM2IiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImlzaGFyaW5n54ix5YiG5LqrWW91VHViZemikemBkyAtIOe+juWbvUNsb3VkaW5ub3ZhdGlvbuaVsOaNruS4reW/gzIzNSIsDQogICJhZGQiOiAiMTU0Ljg0LjEuMjM1IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImQxNTExMWY1LWFkOTItNDE3NS1hMjM4LTcyNjZjZjY2NTc4NiIsDQogICJhaWQiOiAiNjQiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInd3dy45MTQyNjc0MTczLnh5eiIsDQogICJwYXRoIjogIi9mb290ZXJzIiwNCiAgInRscyI6ICJ0bHMiDQp9
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImlzaGFyaW5n54ix5YiG5LqrWW91VHViZemikemBkyAtIOe+juWbvUNsb3VkaW5ub3ZhdGlvbuaVsOaNruS4reW/gzE4MCIsDQogICJhZGQiOiAiMTU0Ljg0LjEuMTgwIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAxMDdmZGNjLThkNDctNGI5Ny05MzMwLTNiM2Q5YWIzMDA0NiIsDQogICJhaWQiOiAiNjQiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInd3dy41NDMzMTg5OS54eXoiLA0KICAicGF0aCI6ICIvZm9vdGVycyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
+
+# 订阅地址
+<div align="center">
+  <p>下方链接为小猫咪订阅，节点由油管频道【isharing爱分享】提供。
+    <br>
+    <br>
+    <script type="text/javascript"> 
+function copyUrl2() 
+{ 
+var Url2=document.getElementById("biao1"); 
+Url2.select(); // 选择对象 
+document.execCommand("Copy"); // 执行浏览器复制命令 
+alert("已复制好，可贴粘。"); 
+} 
+    </script> 
+    <textarea cols="80" rows="5" id="biao1">https://proxy.xiaofeiya.xyz/1219-IOQ3HzYHar0keXB1/1219.yml</textarea>
+  </p>
+  <p> 
+    <input type="button" onClick="copyUrl2()" value="点击复制订阅链接"> 
+    
+    
+    </p>
+</div>
+<hr align="center">
+<div align="center">
+  <p>下方链接为通用型订阅，节点由油管频道【isharing爱分享】提供。
+    <br>
+    <br>
+    <script type="text/javascript"> 
+function copyUrl21() 
+{ 
+var Url2=document.getElementById("biao11"); 
+Url2.select(); // 选择对象 
+document.execCommand("Copy"); // 执行浏览器复制命令 
+alert("已复制好，可贴粘。"); 
+} 
+    </script> 
+    <textarea cols="80" rows="5" id="biao11">https://proxy.xiaofeiya.xyz/1219-IOQ3HzYHar0keXB1/1219.txt</textarea>
+  </p>
+  <p> 
+    <input type="button" onClick="copyUrl21()" value="点击复制订阅链接"> 
+    </p>
+</div>
+
