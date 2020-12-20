@@ -9,6 +9,7 @@
 YouTube频道保证每周至少更新2次免费节点，而GitHub频道不定期更新！
 
 本频道福利如下：<br>
+更省APP注册：https://4m.cn/t7cGt （各大网购平台返利神器，自购神器，分享赚钱）<br>
 免单网：https://www.taoquanzb.com/miandan （天天抢免单0元购产品）<br>
 虚拟货源网：https://xuni.taoquanzb.com/ （总有你要的产品）<br>
 爱分享影院：https://www.isharing360.com/ （免费看VIP电影）<br>
